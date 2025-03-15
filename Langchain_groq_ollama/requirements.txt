@@ -4,6 +4,10 @@ langchain-openai
 #
 # lanchain-core
 langchain-community
+langchain_huggingface
 bs4
 documents
 faiss-cpu
+pypdf
+arxiv 
+pymupdf
